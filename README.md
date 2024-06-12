@@ -1,16 +1,29 @@
-# myapp
+# Rakhasa Flutter Coding Test
 
-A new Flutter project.
+Ini adalah test project untuk coding test para kandidat
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Pertama-tama kalian bisa Clone Project Menggunakan IDE kesukaan kalian (contoh: Google IDX Project atau Visual Studio Code) 
+Pastikan flutter-doctor tidak ada kendala
+lalu coba run project ini di flutter
+Hilangkan semua error DAN warning terlebih dahulu....
 
-A few resources to get you started if this is your first Flutter project:
+Tugas 1:
+Tampilkan data POSTS pada halaman utama
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Tugas 2:
+Tampilkan "Author" sebagai NAME, bukan ID
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tugas 3:
+Buatlah konsep unlimited scroll, loading new data setiap 10 POST
+
+Tugas 4:
+Buatlah image placeholder (loading image waiting) pada gambar di setiap post , sehingga user tau bahwa gambar tersebut sedang proses loading
+dapat menggunakan plugin apapun pada pub.dev
+
+Setelah selesai, PUSH ke REPO kalian masing-masing, berikan URL GIT kalian ke HRD Kami
+
+NOTE: JANGAN PULL REQUEST KE GITHUB KAMI !!
+
+
